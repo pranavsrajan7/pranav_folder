@@ -1,0 +1,11 @@
+import turtle as t
+t.fd(100)
+t.color("brown")
+t.pensize(5)
+t.fd(200)
+t.right(200)
+t.fd(200)
+t.right(200)
+t.fd(200)
+t.right(200)
+t.fd(200)
